@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Pierwszy post",
+    "body": "To jest treść posta.",
+    "comments": [
+      {
+        "id": 101,
+        "author": "Janek",
+        "text": "Świetny post!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Drugi post",
+    "body": "Treść drugiego posta.",
+    "comments": []
+  }
+]
